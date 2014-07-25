@@ -1,13 +1,13 @@
 FiniteStateMachine
 ==================
 
-A simple Finite State Machine using Python
+A simple <b>Finite State Machine</b> using Python
 
 We want to recognize the meaning of small sentences with limited vocabulary and syntax:
-These sentences should start with "ThisProgram is" followed by:
+These sentences should start with <b>"ThisProgram is"</b> followed by:
 <li>
-an adjective or
-the word "not" followed by an adjective.
+1. an adjective or
+2. the word "not" followed by an adjective.
 </li>
 
 Examples:
