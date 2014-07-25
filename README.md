@@ -10,9 +10,9 @@ These sentences should start with <b>"ThisProgram is"</b> followed by:
 2. the word "not" followed by an adjective.
 
 
-Examples:
-  1. "ThisProgram is great" → positive meaning. <br>
-  2. "ThisProgram is stupid" → negative meaning. <br>
-  3. "ThisProgram is not ugly" → positive meaning. <br>
+<b>Examples:</b>
+"ThisProgram is great" → positive meaning. <br>
+"ThisProgram is stupid" → negative meaning. <br>
+"ThisProgram is not ugly" → positive meaning. <br>
 
 
