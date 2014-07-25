@@ -11,6 +11,8 @@ These sentences should start with <b>"ThisProgram is"</b> followed by:
 
 
 Examples:
-"ThisProgram is great" → positive meaning
-"ThisProgram is stupid" → negative meaning
-"ThisProgram is not ugly" → positive meaning
+<li>
+  "ThisProgram is great" → positive meaning
+  "ThisProgram is stupid" → negative meaning
+  "ThisProgram is not ugly" → positive meaning
+</li>
