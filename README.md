@@ -5,10 +5,10 @@ A simple <b>Finite State Machine</b> using Python
 
 We want to recognize the meaning of small sentences with limited vocabulary and syntax:
 These sentences should start with <b>"ThisProgram is"</b> followed by:
-<li>
+
 1. an adjective or
 2. the word "not" followed by an adjective.
-</li>
+
 
 Examples:
 "ThisProgram is great" → positive meaning
